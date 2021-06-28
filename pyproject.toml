@@ -6,6 +6,8 @@ authors = ["ahmedzatar <ahmed.zatar2@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+bs4 = "^0.0.1"
+requests = "^2.25.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
